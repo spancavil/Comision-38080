@@ -1,0 +1,7 @@
+https://es.wikipedia.org/wiki/HTML5 => Etiquetas nuevas HTML 5
+https://kinsta.com/es/blog/html-vs-html5/ => Novedades específicas en HTML5
+https://www.w3schools.com/ => Para repasar HTML y CSS
+
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/amp/ => JS Basic concepts
+
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/amp/ => Inspiring

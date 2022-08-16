@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.show-class{
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+.input-class {
+    padding: 10px;
+    border-radius: 8px;
+    background-color: beige;
+}
