@@ -1,0 +1,11 @@
+https://es.reactjs.org/docs/faq-internals.html => Más funcionamiento virtual DOM
+https://tech.tribalyte.eu/blog-que-es-react => Explicación virtual DOM
+
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git => Instalando GIT
+
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/amp/ => JS Basic concepts
+
+Agregando git bash a la terminal de VSC (mediante archivo de configuración JSON)
+https://www.geeksforgeeks.org/how-to-integrate-git-bash-with-visual-studio-code/
+
+https://github.com/Bash-it/bash-it => Cambia el formato del bash convencional para Linux
