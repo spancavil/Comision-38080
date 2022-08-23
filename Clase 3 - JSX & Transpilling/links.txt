@@ -1,0 +1,20 @@
+https://www.w3schools.com/js/js_es6.asp#mark_class => Lo nuevo de ECMAScript 6.
+https://developer.mozilla.org/en-US/docs/Glossary/Polyfill => Un poco de polyfills.
+
+ejemplo en babel 
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>{item3}</li>
+  <li>
+    <div>
+      {imagen ? 
+        <img src={imagen} alt ="imagenLocal"/>
+        :
+      	null
+      }
+    </div>
+  </li>
+</ul>
+
+https://create-react-app.dev/docs/adding-bootstrap/ => Adding bootstrap
