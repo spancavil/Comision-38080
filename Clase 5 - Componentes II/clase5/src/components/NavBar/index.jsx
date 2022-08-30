@@ -2,15 +2,24 @@ import React from "react";
 import CartWidget from "../CartWidget";
 import Select from "../Select";
 import "./styles.css";
+import { useState } from 'react';
 
 const NavBar = () => {
 
+    //Nombre del estado, setNombreDelEstado
+    const [navColor, setNavColor] = useState("#f3f3f3")
+
     const onChangeColor = (event) => {
-        console.log(event);
+        const color = event.target.value;
+        setNavColor(color)
     }
 
+    console.log(navColor);
+
     return (
-        <ul>
+        <ul style={{
+            backgroundColor: navColor
+        }}>
             <li>
                 <a href="/#">Home</a>
             </li>
