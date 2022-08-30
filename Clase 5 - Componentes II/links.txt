@@ -1,0 +1,2 @@
+https://www.w3schools.com/react/react_usestate.asp => hook useState (principalmente ver modificar objetos y arrays)
+https://www.w3schools.com/react/react_useeffect.asp => hook useEffect
