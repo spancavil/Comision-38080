@@ -14,12 +14,11 @@
     //Bloque try-catch
     try {
         const response = await obtenerProductos;
-        console.log(response)
+        console.log(response);
     } catch (error) {
-        console.log("Hubo un error")
-        console.log(error)
+        console.log("Entra en el catch")
+        console.log(error);
     }
-
-    console.log("Continua la ejecución del programa")
-    
+    console.log("Continua la ejecución!");
+        
 })()
