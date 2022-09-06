@@ -2,3 +2,4 @@ https://es.wikipedia.org/wiki/Transferencia_de_Estado_Representacional => arquit
 https://github.com/public-apis/ => Listado de API's publicas 
 https://fakestoreapi.com/docs => Fakestore API
 https://jsonplaceholder.typicode.com/guide/ => JSON placeholder
+https://rickandmortyapi.com/documentation => Rick and Morty

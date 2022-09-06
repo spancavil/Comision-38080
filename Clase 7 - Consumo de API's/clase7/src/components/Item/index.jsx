@@ -1,8 +1,12 @@
 import React from 'react'
 
+//Corresponde a la card del producto
 const Item = ({product}) => {
   return (
-    <h1>{product.name}</h1>
+    <div>
+      <img src={product.image} width={250} alt="product"/>
+      <h1>{product.title}</h1>
+    </div>
   )
 }
 
