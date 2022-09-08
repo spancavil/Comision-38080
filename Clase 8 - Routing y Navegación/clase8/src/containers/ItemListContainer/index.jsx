@@ -1,36 +1,37 @@
 import React, { useEffect, useState } from "react";
 // import { products } from '../../data/products';
 import ItemList from "../../components/ItemList";
+import {useParams} from 'react-router-dom';
 
 const ItemListContainer = ({ greeting }) => {
     const [productos, setProductos] = useState([]);
 
-    //La promise se ejecuta una única vez cuando se monta el componente
+    const {categoryId} = useParams();
+
+    console.log(categoryId);
+
     useEffect(() => {
         (async () => {
-            /* const obtenerProductos = new Promise ((accept, reject)=> {
-        setTimeout(()=> {
-          accept(products)
-        }, 3000);
-      })
-       */
-            /* obtenerProductos
-          .then((result) => {
-            console.log(result)
-            setProductos(result)
-          })
-          .catch((error) => console.log(error)) */
             try {
-                const response = await fetch(
-                    "https://fakestoreapi.com/products"
+                if (categoryId){
+                  const response = await fetch(
+                    "https://fakestoreapi.com/products/category/" + categoryId
                 );
                 const productos = await response.json();
                 setProductos(productos);
+                }
+                else {
+                  const response = await fetch(
+                      "https://fakestoreapi.com/products"
+                  );
+                  const productos = await response.json();
+                  setProductos(productos);
+                }
             } catch (error) {
                 console.log(error);
             }
         })();
-    }, []);
+    }, [categoryId]);
 
     console.log(productos);
 
