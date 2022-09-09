@@ -1,0 +1,5532 @@
+[
+    {
+        "id": "MLA680573238",
+        "site_id": "MLA",
+        "title": "Zapato Vulcano",
+        "seller": {
+            "id": 182684371,
+            "permalink": "http://perfil.mercadolibre.com.ar/BIANCA.RAMIREZ",
+            "registration_date": "2015-05-05T17:34:24.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "normal",
+                "eshop",
+                "mshops",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "eshop": {
+                "seller": 182684371,
+                "eshop_rubro": null,
+                "eshop_id": 436297,
+                "nick_name": "BIANCA.RAMIREZ",
+                "site_id": "MLA",
+                "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/182684371va32dd7.png",
+                "eshop_status_id": 2,
+                "eshop_experience": 0,
+                "eshop_locations": []
+            },
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0.0037,
+                        "value": 11
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0054,
+                        "value": 16
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.0237,
+                        "value": 66
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 2594
+                    }
+                },
+                "transactions": {
+                    "canceled": 1534,
+                    "period": "historic",
+                    "total": 14337,
+                    "ratings": {
+                        "negative": 0.02,
+                        "neutral": 0.02,
+                        "positive": 0.96
+                    },
+                    "completed": 12803
+                }
+            }
+        },
+        "price": 4139.36,
+        "prices": {
+            "id": "MLA680573238",
+            "prices": [
+                {
+                    "id": "170",
+                    "type": "standard",
+                    "amount": 5048,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-08-12T02:15:16Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                },
+                {
+                    "id": "198",
+                    "type": "promotion",
+                    "amount": 4290,
+                    "regular_amount": 5048,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-05T16:13:17Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2019-02-18T03:00:00Z",
+                        "end_time": "2023-01-01T02:59:00Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "campaign_id": "MLA1759",
+                        "promotion_id": "OFFER-MLA680573238-348558422",
+                        "promotion_type": "campaign"
+                    }
+                },
+                {
+                    "id": "199",
+                    "type": "promotion",
+                    "amount": 4139.36,
+                    "regular_amount": 5048,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-05T16:13:17Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-09-08T21:00:00Z",
+                        "end_time": "2022-09-09T03:00:00Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "promotion_id": "OFFER-MLA680573238-391202128",
+                        "promotion_type": "lightning"
+                    }
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "83",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 2999,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-02-22T07:26:41Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 150,
+        "sold_quantity": 5000,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2039-08-07T14:59:05.000Z",
+        "condition": "new",
+        "permalink": "https://articulo.mercadolibre.com.ar/MLA-680573238-zapato-vulcano-_JM",
+        "thumbnail": "http://http2.mlstatic.com/D_645465-MLA31037702912_062019-I.jpg",
+        "thumbnail_id": "645465-MLA31037702912_062019",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 668.54,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Santos Lugares"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "me2",
+            "tags": ["self_service_in"],
+            "logistic_type": "cross_docking",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Santos Lugares"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "id": "BRAND",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": null,
+                        "name": "Vulcano BA",
+                        "struct": null,
+                        "source": 8492822877720875
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "source": 8492822877720875,
+                "name": "Marca",
+                "value_id": null,
+                "value_name": "Vulcano BA",
+                "attribute_group_id": "OTHERS"
+            },
+            {
+                "id": "ITEM_CONDITION",
+                "name": "Condición del ítem",
+                "value_id": "2230284",
+                "value_struct": null,
+                "attribute_group_name": "Otros",
+                "value_name": "Nuevo",
+                "values": [
+                    {
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 1,
+                        "id": "2230284"
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "source": 1
+            },
+            {
+                "value_name": null,
+                "value_struct": null,
+                "id": "LINE",
+                "value_id": "-1",
+                "values": [
+                    {
+                        "id": "-1",
+                        "name": null,
+                        "struct": null,
+                        "source": 3376461333454861
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 3376461333454861,
+                "name": "Línea"
+            },
+            {
+                "value_id": null,
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": null,
+                        "name": "art 900",
+                        "struct": null,
+                        "source": 1572
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "source": 1572,
+                "id": "MODEL",
+                "value_name": "art 900",
+                "attribute_group_name": "Otros",
+                "name": "Modelo"
+            }
+        ],
+        "original_price": 5048,
+        "category_id": "MLA414674",
+        "official_store_id": null,
+        "domain_id": "MLA-LOAFERS_AND_OXFORDS",
+        "catalog_product_id": null,
+        "tags": [
+            "lightning_deal",
+            "loyalty_discount_eligible",
+            "brand_verified",
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "order_backend": 1,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null
+    },
+    {
+        "id": "MLA1133115380",
+        "site_id": "MLA",
+        "title": "Zapatillas Para Hombre Topper Gondor Ii Color Gris/negro/naranja - Adulto 40 Ar",
+        "seller": {
+            "id": 608887919,
+            "permalink": "http://perfil.mercadolibre.com.ar/MERCADOLIBRE+MODA_AR",
+            "registration_date": "2020-07-13T14:31:00.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": ["brand", "large_seller", "messages_as_seller"],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0022,
+                        "value": 125
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 50124
+                    }
+                },
+                "transactions": {
+                    "canceled": 34497,
+                    "period": "historic",
+                    "total": 296985,
+                    "ratings": {
+                        "negative": 0.03,
+                        "neutral": 0.01,
+                        "positive": 0.96
+                    },
+                    "completed": 262488
+                }
+            }
+        },
+        "price": 16999,
+        "prices": {
+            "id": "MLA1133115380",
+            "prices": [
+                {
+                    "id": "5113",
+                    "type": "standard",
+                    "amount": 16999,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-02T13:39:22Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "5092",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 10399,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-06-30T04:21:07Z"
+                },
+                {
+                    "id": "5093",
+                    "type": "was",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-06-30T04:21:07Z",
+                        "end_time": "2022-07-07T04:21:07Z",
+                        "eligible": true
+                    },
+                    "amount": 9519.2,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-06-30T04:21:07Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 12,
+        "sold_quantity": 155,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_pro",
+        "stop_time": "2042-04-15T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-para-hombre-topper-gondor-ii-color-grisnegronaranja-adulto-40-ar/p/MLA18681827",
+        "thumbnail": "http://http2.mlstatic.com/D_612712-MLA49304718485_032022-I.jpg",
+        "thumbnail_id": "612712-MLA49304718485_032022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 6,
+            "amount": 2833.17,
+            "rate": 0,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Villa Celina"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["fulfillment", "mandatory_free_shipping"],
+            "logistic_type": "fulfillment",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Villa Celina"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "id": "BRAND",
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "values": [
+                    {
+                        "id": "415948",
+                        "name": "Topper",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "source": 1,
+                "name": "Marca",
+                "value_id": "415948",
+                "value_name": "Topper",
+                "value_struct": null
+            },
+            {
+                "id": "ITEM_CONDITION",
+                "value_name": "Nuevo",
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "name": "Condición del ítem",
+                "value_id": "2230284",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS"
+            },
+            {
+                "value_name": "Gondor",
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "id": "MODEL",
+                "name": "Modelo",
+                "value_id": "7565189",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "7565189",
+                        "name": "Gondor",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "source": 1
+            },
+            {
+                "value_id": null,
+                "attribute_group_id": "OTHERS",
+                "source": 1,
+                "id": "PACKAGE_LENGTH",
+                "value_name": "32.6 cm",
+                "value_struct": {
+                    "unit": "cm",
+                    "number": 32.6
+                },
+                "values": [
+                    {
+                        "id": null,
+                        "name": "32.6 cm",
+                        "struct": {
+                            "number": 32.6,
+                            "unit": "cm"
+                        },
+                        "source": 1
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "name": "Largo del paquete"
+            },
+            {
+                "value_struct": {
+                    "number": 900,
+                    "unit": "g"
+                },
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "id": "PACKAGE_WEIGHT",
+                "name": "Peso del paquete",
+                "value_id": null,
+                "value_name": "900 g",
+                "values": [
+                    {
+                        "id": null,
+                        "name": "900 g",
+                        "struct": {
+                            "number": 900,
+                            "unit": "g"
+                        },
+                        "source": 1
+                    }
+                ]
+            }
+        ],
+        "differential_pricing": {
+            "id": 35713299
+        },
+        "original_price": null,
+        "category_id": "MLA3724",
+        "official_store_id": 1,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA18681827",
+        "tags": [
+            "ahora-6",
+            "certified_quality_thumbnail",
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "immediate_payment",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 2
+    },
+    {
+        "id": "MLA1163796359",
+        "site_id": "MLA",
+        "title": "Zapatillas Sin Género Jaguar 320 Color Azul - Adulto 35 Ar",
+        "seller": {
+            "id": 206131214,
+            "permalink": "http://perfil.mercadolibre.com.ar/TIENDA+HILO",
+            "registration_date": "2016-02-15T21:03:33.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "normal",
+                "eshop",
+                "mshops",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "eshop": {
+                "seller": 206131214,
+                "eshop_rubro": null,
+                "eshop_id": 200609,
+                "nick_name": "TIENDA HILO",
+                "site_id": "MLA",
+                "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/206131214vd17531.png",
+                "eshop_status_id": 1,
+                "eshop_experience": 0,
+                "eshop_locations": []
+            },
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0.0058,
+                        "value": 39
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0091,
+                        "value": 61
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.0132,
+                        "value": 84
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 6090
+                    }
+                },
+                "transactions": {
+                    "canceled": 2995,
+                    "period": "historic",
+                    "total": 32592,
+                    "ratings": {
+                        "negative": 0.03,
+                        "neutral": 0.01,
+                        "positive": 0.96
+                    },
+                    "completed": 29597
+                }
+            }
+        },
+        "price": 2750,
+        "prices": {
+            "id": "MLA1163796359",
+            "prices": [
+                {
+                    "id": "2",
+                    "type": "standard",
+                    "amount": 2750,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-07T15:18:33Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "3",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 2750,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-09-07T15:18:34Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 3,
+        "sold_quantity": 3,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2042-09-01T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-sin-genero-jaguar-320-color-azul-adulto-35-ar/p/MLA18652370",
+        "thumbnail": "http://http2.mlstatic.com/D_837611-MLA49396443918_032022-I.jpg",
+        "thumbnail_id": "837611-MLA49396443918_032022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 444.15,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "TUxBQ0FWRTc5OTQ1",
+            "city_name": "Avellaneda"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "me2",
+            "tags": ["self_service_in"],
+            "logistic_type": "cross_docking",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "TUxBQ0FWRTc5OTQ1",
+                "name": "Avellaneda"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "name": "Marca",
+                "value_name": "Jaguar",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "23629",
+                        "name": "Jaguar",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "id": "BRAND",
+                "value_id": "23629"
+            },
+            {
+                "value_id": "2230284",
+                "value_name": "Nuevo",
+                "value_struct": null,
+                "attribute_group_name": "Otros",
+                "source": 2860837171021627,
+                "id": "ITEM_CONDITION",
+                "name": "Condición del ítem",
+                "values": [
+                    {
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 2860837171021627
+                    }
+                ],
+                "attribute_group_id": "OTHERS"
+            },
+            {
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "name": "Modelo",
+                "value_struct": null,
+                "value_name": "320",
+                "values": [
+                    {
+                        "struct": null,
+                        "source": 1,
+                        "id": "102",
+                        "name": "320"
+                    }
+                ],
+                "id": "MODEL",
+                "value_id": "102"
+            }
+        ],
+        "original_price": null,
+        "category_id": "MLA109027",
+        "official_store_id": null,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA18652370",
+        "tags": [
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "certified_quality_thumbnail",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 3
+    },
+    {
+        "id": "MLA1157360659",
+        "site_id": "MLA",
+        "title": "Zapatillas Para Hombre Topper X-forcer Color Blanco/gris/azul - Adulto 35 Ar",
+        "seller": {
+            "id": 608887919,
+            "permalink": "http://perfil.mercadolibre.com.ar/MERCADOLIBRE+MODA_AR",
+            "registration_date": "2020-07-13T14:31:00.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": ["brand", "large_seller", "messages_as_seller"],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0022,
+                        "value": 125
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 50124
+                    }
+                },
+                "transactions": {
+                    "canceled": 34497,
+                    "period": "historic",
+                    "total": 296985,
+                    "ratings": {
+                        "negative": 0.03,
+                        "neutral": 0.01,
+                        "positive": 0.96
+                    },
+                    "completed": 262488
+                }
+            }
+        },
+        "price": 16499,
+        "prices": {
+            "id": "MLA1157360659",
+            "prices": [
+                {
+                    "id": "3",
+                    "type": "standard",
+                    "amount": 16499,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-02T13:39:07Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "4",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 14999,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-09-02T13:41:07Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 7,
+        "sold_quantity": 1,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_pro",
+        "stop_time": "2042-08-19T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-para-hombre-topper-x-forcer-color-blancogrisazul-adulto-35-ar/p/MLA18202745",
+        "thumbnail": "http://http2.mlstatic.com/D_614458-MLA49249945961_032022-I.jpg",
+        "thumbnail_id": "614458-MLA49249945961_032022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 6,
+            "amount": 2749.83,
+            "rate": 0,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Villa Celina"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["fulfillment", "mandatory_free_shipping"],
+            "logistic_type": "fulfillment",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Villa Celina"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "value_name": "Topper",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "415948",
+                        "name": "Topper",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "id": "BRAND",
+                "name": "Marca",
+                "value_id": "415948"
+            },
+            {
+                "value_name": "Nuevo",
+                "attribute_group_name": "Otros",
+                "id": "ITEM_CONDITION",
+                "name": "Condición del ítem",
+                "value_id": "2230284",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "source": 1
+            },
+            {
+                "values": [
+                    {
+                        "source": 1,
+                        "id": "10748178",
+                        "name": "X-Forcer",
+                        "struct": null
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "id": "MODEL",
+                "name": "Modelo",
+                "value_id": "10748178",
+                "value_name": "X-Forcer",
+                "value_struct": null,
+                "attribute_group_id": "OTHERS"
+            },
+            {
+                "source": 1,
+                "id": "PACKAGE_LENGTH",
+                "name": "Largo del paquete",
+                "value_id": null,
+                "value_name": "20 cm",
+                "value_struct": {
+                    "number": 20,
+                    "unit": "cm"
+                },
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "values": [
+                    {
+                        "id": null,
+                        "name": "20 cm",
+                        "struct": {
+                            "unit": "cm",
+                            "number": 20
+                        },
+                        "source": 1
+                    }
+                ]
+            },
+            {
+                "attribute_group_name": "Otros",
+                "value_id": null,
+                "values": [
+                    {
+                        "id": null,
+                        "name": "580 g",
+                        "struct": {
+                            "number": 580,
+                            "unit": "g"
+                        },
+                        "source": 1
+                    }
+                ],
+                "value_name": "580 g",
+                "value_struct": {
+                    "number": 580,
+                    "unit": "g"
+                },
+                "attribute_group_id": "OTHERS",
+                "source": 1,
+                "id": "PACKAGE_WEIGHT",
+                "name": "Peso del paquete"
+            }
+        ],
+        "differential_pricing": {
+            "id": 35713299
+        },
+        "original_price": null,
+        "category_id": "MLA109027",
+        "official_store_id": 1,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA18202745",
+        "tags": [
+            "ahora-6",
+            "certified_quality_thumbnail",
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "immediate_payment",
+            "shipping_guaranteed"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 4
+    },
+    {
+        "id": "MLA909810799",
+        "site_id": "MLA",
+        "title": "Zapatillas Mujer Plataforma Base Alta Sneakers Moda Heben",
+        "seller": {
+            "id": 163035634,
+            "permalink": "http://perfil.mercadolibre.com.ar/HEBEN+STORE",
+            "registration_date": "2014-07-22T10:22:52.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "normal",
+                "eshop",
+                "medium_seller_advanced",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "eshop": {
+                "seller": 163035634,
+                "eshop_rubro": {
+                    "category_id": "MLA1430",
+                    "name": "Zapatos",
+                    "id": "MLA109026"
+                },
+                "eshop_id": 174532,
+                "nick_name": "HEBEN STORE",
+                "site_id": "MLA",
+                "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/163035634v720618.png",
+                "eshop_status_id": 1,
+                "eshop_experience": 2000,
+                "eshop_locations": [
+                    {
+                        "country": {
+                            "id": "AR"
+                        },
+                        "city": {
+                            "id": "TUxBQ1NBTmIyM2M2"
+                        },
+                        "neighborhood": {
+                            "id": null
+                        },
+                        "state": {
+                            "id": "AR-J"
+                        }
+                    },
+                    {
+                        "country": {
+                            "id": "AR"
+                        },
+                        "city": {
+                            "id": "TUxBQ0NBUDZjNWY4"
+                        },
+                        "neighborhood": {
+                            "id": null
+                        },
+                        "state": {
+                            "id": "AR-D"
+                        }
+                    },
+                    {
+                        "country": {
+                            "id": "AR"
+                        },
+                        "city": {
+                            "id": "TUxBQ0xVSjRiOWZh"
+                        },
+                        "neighborhood": {
+                            "id": null
+                        },
+                        "state": {
+                            "id": "AR-M"
+                        }
+                    },
+                    {
+                        "country": {
+                            "id": "AR"
+                        },
+                        "city": {
+                            "id": "TUxBQ0dVQTI0Yjcw"
+                        },
+                        "neighborhood": {
+                            "id": null
+                        },
+                        "state": {
+                            "id": "AR-M"
+                        }
+                    },
+                    {
+                        "country": {
+                            "id": "AR"
+                        },
+                        "city": {
+                            "id": "TUxBQkxBUzIxNTJa"
+                        },
+                        "neighborhood": {
+                            "id": null
+                        },
+                        "state": {
+                            "id": "AR-C"
+                        }
+                    },
+                    {
+                        "country": {
+                            "id": "AR"
+                        },
+                        "city": {
+                            "id": "TUxBQ1NBTmQ4N2U4"
+                        },
+                        "neighborhood": {
+                            "id": null
+                        },
+                        "state": {
+                            "id": "AR-M"
+                        }
+                    },
+                    {
+                        "country": {
+                            "id": "AR"
+                        },
+                        "city": {
+                            "id": "TUxBQ01BSWEyMzA"
+                        },
+                        "neighborhood": {
+                            "id": null
+                        },
+                        "state": {
+                            "id": "AR-M"
+                        }
+                    },
+                    {
+                        "country": {
+                            "id": "AR"
+                        },
+                        "city": {
+                            "id": "TUxBQ1NBTjk0NDE"
+                        },
+                        "neighborhood": {
+                            "id": null
+                        },
+                        "state": {
+                            "id": "AR-B"
+                        }
+                    },
+                    {
+                        "country": {
+                            "id": "AR"
+                        },
+                        "city": {
+                            "id": "TUxBQ0dPRDIyMDlm"
+                        },
+                        "neighborhood": {
+                            "id": null
+                        },
+                        "state": {
+                            "id": "AR-M"
+                        }
+                    },
+                    {
+                        "country": {
+                            "id": "AR"
+                        },
+                        "city": {
+                            "id": "TUxBQ0NBUDFmNDY3"
+                        },
+                        "neighborhood": {
+                            "id": null
+                        },
+                        "state": {
+                            "id": "AR-M"
+                        }
+                    }
+                ]
+            },
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 1
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0051,
+                        "value": 5
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.0184,
+                        "value": 17
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 841
+                    }
+                },
+                "transactions": {
+                    "canceled": 862,
+                    "period": "historic",
+                    "total": 7258,
+                    "ratings": {
+                        "negative": 0.01,
+                        "neutral": 0,
+                        "positive": 0.99
+                    },
+                    "completed": 6396
+                }
+            }
+        },
+        "price": 9490.5,
+        "prices": {
+            "id": "MLA909810799",
+            "prices": [
+                {
+                    "id": "298",
+                    "type": "standard",
+                    "amount": 9990,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-07-29T13:30:04Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                },
+                {
+                    "id": "320",
+                    "type": "promotion",
+                    "amount": 9490.5,
+                    "regular_amount": 9990,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-06T21:33:33Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-09-08T21:00:00Z",
+                        "end_time": "2022-09-09T03:00:00Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "promotion_id": "OFFER-MLA909810799-395300599",
+                        "promotion_type": "lightning"
+                    }
+                },
+                {
+                    "id": "321",
+                    "type": "promotion",
+                    "amount": 9990,
+                    "regular_amount": 13000,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-06T21:33:33Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2019-02-18T03:00:00Z",
+                        "end_time": "2023-01-01T02:59:00Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "campaign_id": "MLA1759",
+                        "promotion_id": "OFFER-MLA909810799-158037065",
+                        "promotion_type": "campaign"
+                    }
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "260",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 5490,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-06-30T04:13:17Z"
+                },
+                {
+                    "id": "261",
+                    "type": "was",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-06-30T04:13:17Z",
+                        "end_time": "2022-07-07T04:13:17Z",
+                        "eligible": true
+                    },
+                    "amount": 6640.5,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-06-30T04:13:17Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 1,
+        "sold_quantity": 500,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2041-02-21T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://articulo.mercadolibre.com.ar/MLA-909810799-zapatillas-mujer-plataforma-base-alta-sneakers-moda-heben-_JM",
+        "thumbnail": "http://http2.mlstatic.com/D_997499-MLA45013612097_022021-I.jpg",
+        "thumbnail_id": "997499-MLA45013612097_022021",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 1532.79,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Ciudadela"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": [
+                "fulfillment",
+                "self_service_out",
+                "mandatory_free_shipping"
+            ],
+            "logistic_type": "fulfillment",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Ciudadela"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "id": "BRAND",
+                "value_name": "Heben",
+                "values": [
+                    {
+                        "id": "12278329",
+                        "name": "Heben",
+                        "struct": null,
+                        "source": 3045741222775799
+                    }
+                ],
+                "name": "Marca",
+                "value_id": "12278329",
+                "value_struct": null,
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 3045741222775799
+            },
+            {
+                "value_id": "2230284",
+                "value_name": "Nuevo",
+                "value_struct": null,
+                "values": [
+                    {
+                        "source": 3045741222775799,
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "id": "ITEM_CONDITION",
+                "name": "Condición del ítem",
+                "source": 3045741222775799
+            },
+            {
+                "value_struct": null,
+                "values": [
+                    {
+                        "name": "Zapatillas Malei",
+                        "struct": null,
+                        "source": 3045741222775799,
+                        "id": null
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 3045741222775799,
+                "id": "MODEL",
+                "name": "Modelo",
+                "value_name": "Zapatillas Malei",
+                "value_id": null
+            }
+        ],
+        "original_price": 9990,
+        "category_id": "MLA109027",
+        "official_store_id": null,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": null,
+        "tags": [
+            "lightning_deal",
+            "loyalty_discount_eligible",
+            "certified_quality_thumbnail",
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "order_backend": 5,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null
+    },
+    {
+        "id": "MLA1143375632",
+        "site_id": "MLA",
+        "title": "Zapatillas Para Hombre Topper Ultralight Ii Color Negro - Adulto 41 Ar",
+        "seller": {
+            "id": 306401715,
+            "permalink": "http://perfil.mercadolibre.com.ar/DEXTER-SHOPS-ML",
+            "registration_date": "2018-03-07T12:18:54.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "brand",
+                "large_seller",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0.0031,
+                        "value": 37
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.005,
+                        "value": 60
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.102,
+                        "value": 1192
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 10904
+                    }
+                },
+                "transactions": {
+                    "canceled": 6404,
+                    "period": "historic",
+                    "total": 72335,
+                    "ratings": {
+                        "negative": 0.05,
+                        "neutral": 0.03,
+                        "positive": 0.92
+                    },
+                    "completed": 65931
+                }
+            }
+        },
+        "price": 11299,
+        "prices": {
+            "id": "MLA1143375632",
+            "prices": [
+                {
+                    "id": "6",
+                    "type": "standard",
+                    "amount": 11299,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-08-30T18:08:07Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "3",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 7999,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-07-01T19:24:04Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 89,
+        "sold_quantity": 71,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2042-06-16T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-para-hombre-topper-ultralight-ii-color-negro-adulto-41-ar/p/MLA18679971",
+        "thumbnail": "http://http2.mlstatic.com/D_937378-MLA47323956440_092021-I.jpg",
+        "thumbnail_id": "937378-MLA47323956440_092021",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 1824.88,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Garin"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["mandatory_free_shipping"],
+            "logistic_type": "cross_docking",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Garin"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "name": "Marca",
+                "value_id": "415948",
+                "value_name": "Topper",
+                "attribute_group_name": "Otros",
+                "id": "BRAND",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "415948",
+                        "name": "Topper",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "source": 1
+            },
+            {
+                "name": "Condición del ítem",
+                "value_id": "2230284",
+                "value_struct": null,
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "id": "ITEM_CONDITION",
+                "value_name": "Nuevo",
+                "values": [
+                    {
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS"
+            },
+            {
+                "value_name": "Ultralight",
+                "value_struct": null,
+                "source": 1,
+                "value_id": "2355081",
+                "name": "Modelo",
+                "values": [
+                    {
+                        "id": "2355081",
+                        "name": "Ultralight",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "id": "MODEL"
+            }
+        ],
+        "original_price": null,
+        "category_id": "MLA109027",
+        "official_store_id": 1417,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA18679971",
+        "tags": [
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "moderation_penalty",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 6
+    },
+    {
+        "id": "MLA1150681412",
+        "site_id": "MLA",
+        "title": "Zapatillas Sin Género Jaguar 8074 Color Lino - Adulto 34 Ar",
+        "seller": {
+            "id": 541573598,
+            "permalink": "http://perfil.mercadolibre.com.ar/ATUSPIES+CALZADOS",
+            "registration_date": "2020-04-02T14:22:48.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "normal",
+                "eshop",
+                "mshops",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "eshop": {
+                "seller": 541573598,
+                "eshop_rubro": null,
+                "eshop_id": 465806,
+                "nick_name": "RIMONCASSISEHIJOS SA",
+                "site_id": "MLA",
+                "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/541573598v716275.png",
+                "eshop_status_id": 1,
+                "eshop_experience": 0,
+                "eshop_locations": []
+            },
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 2
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 504
+                    }
+                },
+                "transactions": {
+                    "canceled": 274,
+                    "period": "historic",
+                    "total": 2468,
+                    "ratings": {
+                        "negative": 0.01,
+                        "neutral": 0.01,
+                        "positive": 0.98
+                    },
+                    "completed": 2194
+                }
+            }
+        },
+        "price": 4350,
+        "prices": {
+            "id": "MLA1150681412",
+            "prices": [
+                {
+                    "id": "2",
+                    "type": "standard",
+                    "amount": 4350,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-08-09T13:12:40Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "3",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 4350,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-08-09T13:12:40Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 2,
+        "sold_quantity": 0,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2042-08-04T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-sin-genero-jaguar-8074-color-lino-adulto-34-ar/p/MLA16142450",
+        "thumbnail": "http://http2.mlstatic.com/D_765773-MLA49728429556_042022-I.jpg",
+        "thumbnail_id": "765773-MLA49728429556_042022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 702.56,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-S",
+            "state_name": "Santa Fe",
+            "city_id": "TUxBQ1JPUzg1Yjg3",
+            "city_name": "Rosario"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "me2",
+            "tags": [],
+            "logistic_type": "xd_drop_off",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-S",
+                "name": "Santa Fe"
+            },
+            "city": {
+                "id": "TUxBQ1JPUzg1Yjg3",
+                "name": "Rosario"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "value_id": "23629",
+                "value_name": "Jaguar",
+                "value_struct": null,
+                "values": [
+                    {
+                        "name": "Jaguar",
+                        "struct": null,
+                        "source": 1,
+                        "id": "23629"
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "id": "BRAND",
+                "name": "Marca"
+            },
+            {
+                "id": "ITEM_CONDITION",
+                "value_id": "2230284",
+                "value_name": "Nuevo",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 6808261514773724
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "source": 6808261514773724,
+                "name": "Condición del ítem",
+                "attribute_group_id": "OTHERS"
+            },
+            {
+                "name": "Modelo",
+                "value_id": "3597228",
+                "value_name": "8074",
+                "values": [
+                    {
+                        "id": "3597228",
+                        "name": "8074",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "id": "MODEL",
+                "value_struct": null,
+                "attribute_group_name": "Otros",
+                "source": 1
+            }
+        ],
+        "original_price": null,
+        "category_id": "MLA109027",
+        "official_store_id": null,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA16142450",
+        "tags": [
+            "brand_verified",
+            "certified_quality_thumbnail",
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "immediate_payment",
+            "cart_eligible"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 7
+    },
+    {
+        "id": "MLA911412538",
+        "site_id": "MLA",
+        "title": "Zapatillas Elastizadas Super Livianas Fabricante Directo",
+        "seller": {
+            "id": 172021156,
+            "permalink": "http://perfil.mercadolibre.com.ar/JESICA-RV",
+            "registration_date": "2014-11-30T09:48:25.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "normal",
+                "eshop",
+                "mshops",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "eshop": {
+                "seller": 172021156,
+                "eshop_rubro": null,
+                "eshop_id": 492637,
+                "nick_name": "JESICA-RV",
+                "site_id": "MLA",
+                "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/logo-172021156-1654513706266.jpeg",
+                "eshop_status_id": 1,
+                "eshop_experience": 0,
+                "eshop_locations": []
+            },
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 1
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.001,
+                        "value": 4
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.005,
+                        "value": 19
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 3680
+                    }
+                },
+                "transactions": {
+                    "canceled": 1437,
+                    "period": "historic",
+                    "total": 22637,
+                    "ratings": {
+                        "negative": 0,
+                        "neutral": 0.01,
+                        "positive": 0.99
+                    },
+                    "completed": 21200
+                }
+            }
+        },
+        "price": 2628,
+        "prices": {
+            "id": "MLA911412538",
+            "prices": [
+                {
+                    "id": "279",
+                    "type": "standard",
+                    "amount": 3600,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-08-04T13:04:45Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                },
+                {
+                    "id": "350",
+                    "type": "promotion",
+                    "amount": 2700,
+                    "regular_amount": 3600,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-08T18:35:06Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-09-05T03:00:00Z",
+                        "end_time": "2022-09-19T03:00:00Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "campaign_id": "MLA14871",
+                        "promotion_id": "OFFER-MLA911412538-399076061",
+                        "promotion_type": "campaign"
+                    }
+                },
+                {
+                    "id": "351",
+                    "type": "promotion",
+                    "amount": 2520,
+                    "regular_amount": 3600,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-08T18:35:06Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-09-02T11:37:33Z",
+                        "end_time": "2022-09-12T02:00:00Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "campaign_id": "P-MLA7602003",
+                        "promotion_id": "OFFER-MLA911412538-385623575",
+                        "promotion_type": "marketplace_campaign",
+                        "discount_meli_amount": 108,
+                        "campaign_discount_percentage": 30,
+                        "campaign_end_date": "2022-09-12T02:00:00Z",
+                        "order_item_price": 2628,
+                        "funding_mode": "coupon"
+                    }
+                },
+                {
+                    "id": "352",
+                    "type": "promotion",
+                    "amount": 2700,
+                    "regular_amount": 3600,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-08T18:35:06Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-09-09T03:00:00Z",
+                        "end_time": "2022-09-10T02:59:59Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "promotion_id": "OFFER-MLA911412538-395377911",
+                        "promotion_type": "deal_of_the_day"
+                    }
+                },
+                {
+                    "id": "353",
+                    "type": "promotion",
+                    "amount": 2700,
+                    "regular_amount": 3600,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-08T18:35:06Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_mshops"],
+                        "start_time": "2022-08-22T17:23:43Z",
+                        "end_time": "2022-09-13T02:59:59Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "promotion_id": "INDIVIDUAL-MLA911412538-202208221323462346:MLA911412538",
+                        "promotion_type": "custom"
+                    }
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "258",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 1650,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-07-04T04:12:03Z"
+                },
+                {
+                    "id": "259",
+                    "type": "was",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-07-04T04:12:03Z",
+                        "end_time": "2022-07-11T04:12:03Z",
+                        "eligible": true
+                    },
+                    "amount": 2092.5,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-07-04T04:12:03Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 500,
+        "sold_quantity": 5000,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2042-06-06T18:04:19.000Z",
+        "condition": "new",
+        "permalink": "https://articulo.mercadolibre.com.ar/MLA-911412538-zapatillas-elastizadas-super-livianas-fabricante-directo-_JM",
+        "thumbnail": "http://http2.mlstatic.com/D_662054-MLA50964718987_082022-I.jpg",
+        "thumbnail_id": "662054-MLA50964718987_082022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 424.44,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "TUxBQ0xPTWMwNjk3",
+            "city_name": "Lomas de Zamora"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "me2",
+            "tags": ["fulfillment", "self_service_in"],
+            "logistic_type": "fulfillment",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "TUxBQ0xPTWMwNjk3",
+                "name": "Lomas de Zamora"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "id": "BRAND",
+                "value_id": null,
+                "value_struct": null,
+                "attribute_group_id": "OTHERS",
+                "name": "Marca",
+                "value_name": "RVZ",
+                "values": [
+                    {
+                        "source": 106818986610592,
+                        "id": null,
+                        "name": "RVZ",
+                        "struct": null
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "source": 106818986610592
+            },
+            {
+                "value_id": "2230284",
+                "attribute_group_name": "Otros",
+                "source": 3045741222775799,
+                "values": [
+                    {
+                        "struct": null,
+                        "source": 3045741222775799,
+                        "id": "2230284",
+                        "name": "Nuevo"
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "id": "ITEM_CONDITION",
+                "name": "Condición del ítem",
+                "value_name": "Nuevo",
+                "value_struct": null
+            },
+            {
+                "values": [
+                    {
+                        "id": null,
+                        "name": "RVZ",
+                        "struct": null,
+                        "source": 3376461333454861
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 3376461333454861,
+                "id": "MODEL",
+                "value_id": null,
+                "value_name": "RVZ",
+                "value_struct": null,
+                "name": "Modelo"
+            }
+        ],
+        "original_price": 2628,
+        "category_id": "MLA109027",
+        "official_store_id": null,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": null,
+        "tags": [
+            "moderation_penalty",
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "loyalty_discount_eligible",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "order_backend": 8,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null
+    },
+    {
+        "id": "MLA1148864162",
+        "site_id": "MLA",
+        "title": "Zapatillas Para Hombre Fila Discovery Color Negro/rojo/grafito/plata - Adulto 41 Ar",
+        "seller": {
+            "id": 177433927,
+            "permalink": "http://perfil.mercadolibre.com.ar/GRIDANNEXSA",
+            "registration_date": "2015-02-18T11:51:57.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "brand",
+                "large_seller",
+                "mshops",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0.0084,
+                        "value": 309
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0143,
+                        "value": 522
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.0245,
+                        "value": 836
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 32736
+                    }
+                },
+                "transactions": {
+                    "canceled": 22400,
+                    "period": "historic",
+                    "total": 249805,
+                    "ratings": {
+                        "negative": 0.06,
+                        "neutral": 0.03,
+                        "positive": 0.91
+                    },
+                    "completed": 227405
+                }
+            }
+        },
+        "price": 12490,
+        "prices": {
+            "id": "MLA1148864162",
+            "prices": [
+                {
+                    "id": "2",
+                    "type": "standard",
+                    "amount": 12490,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-01T21:03:21Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "3",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 11490,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-09-01T21:03:24Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 47,
+        "sold_quantity": 28,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2042-07-24T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-para-hombre-fila-discovery-color-negrorojografitoplata-adulto-41-ar/p/MLA18667630",
+        "thumbnail": "http://http2.mlstatic.com/D_971103-MLA49397391015_032022-I.jpg",
+        "thumbnail_id": "971103-MLA49397391015_032022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 2017.24,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Martínez"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["self_service_in", "mandatory_free_shipping"],
+            "logistic_type": "cross_docking",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Martínez"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "value_id": "243483",
+                "value_name": "Fila",
+                "attribute_group_name": "Otros",
+                "id": "BRAND",
+                "value_struct": null,
+                "values": [
+                    {
+                        "struct": null,
+                        "source": 1,
+                        "id": "243483",
+                        "name": "Fila"
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "source": 1,
+                "name": "Marca"
+            },
+            {
+                "value_struct": null,
+                "source": 4954751883138633,
+                "id": "ITEM_CONDITION",
+                "name": "Condición del ítem",
+                "values": [
+                    {
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 4954751883138633
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "value_id": "2230284",
+                "value_name": "Nuevo"
+            },
+            {
+                "id": "MODEL",
+                "value_id": "67077",
+                "value_struct": null,
+                "attribute_group_id": "OTHERS",
+                "source": 1,
+                "name": "Modelo",
+                "value_name": "Discovery",
+                "values": [
+                    {
+                        "id": "67077",
+                        "name": "Discovery",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_name": "Otros"
+            }
+        ],
+        "original_price": null,
+        "category_id": "MLA109027",
+        "official_store_id": 1389,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA18667630",
+        "tags": [
+            "brand_verified",
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 9
+    },
+    {
+        "id": "MLA1141966227",
+        "site_id": "MLA",
+        "title": "Zapatillas Para Hombre Topper Game Over Iii Color Blanco - Adulto 37 Ar",
+        "seller": {
+            "id": 608887919,
+            "permalink": "http://perfil.mercadolibre.com.ar/MERCADOLIBRE+MODA_AR",
+            "registration_date": "2020-07-13T14:31:00.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": ["brand", "large_seller", "messages_as_seller"],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0022,
+                        "value": 125
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 50124
+                    }
+                },
+                "transactions": {
+                    "canceled": 34497,
+                    "period": "historic",
+                    "total": 296985,
+                    "ratings": {
+                        "negative": 0.03,
+                        "neutral": 0.01,
+                        "positive": 0.96
+                    },
+                    "completed": 262488
+                }
+            }
+        },
+        "price": 15899,
+        "prices": {
+            "id": "MLA1141966227",
+            "prices": [
+                {
+                    "id": "304",
+                    "type": "standard",
+                    "amount": 15899,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-02T13:39:08Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "3",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 11199,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-07-06T12:33:52Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 7,
+        "sold_quantity": 31,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_pro",
+        "stop_time": "2042-06-05T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-para-hombre-topper-game-over-iii-color-blanco-adulto-37-ar/p/MLA18701507",
+        "thumbnail": "http://http2.mlstatic.com/D_667729-MLA49423449452_032022-I.jpg",
+        "thumbnail_id": "667729-MLA49423449452_032022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 6,
+            "amount": 2649.83,
+            "rate": 0,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Villa Celina"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["fulfillment", "mandatory_free_shipping"],
+            "logistic_type": "fulfillment",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Villa Celina"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "value_name": "Topper",
+                "values": [
+                    {
+                        "id": "415948",
+                        "name": "Topper",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "id": "BRAND",
+                "value_id": "415948",
+                "value_struct": null,
+                "attribute_group_id": "OTHERS",
+                "source": 1,
+                "name": "Marca"
+            },
+            {
+                "value_struct": null,
+                "source": 1,
+                "id": "ITEM_CONDITION",
+                "value_id": "2230284",
+                "value_name": "Nuevo",
+                "values": [
+                    {
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 1,
+                        "id": "2230284"
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "name": "Condición del ítem"
+            },
+            {
+                "id": "MODEL",
+                "values": [
+                    {
+                        "name": "Game Over",
+                        "struct": null,
+                        "source": 1,
+                        "id": "3272691"
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "name": "Modelo",
+                "value_id": "3272691",
+                "value_name": "Game Over",
+                "value_struct": null
+            },
+            {
+                "id": "PACKAGE_LENGTH",
+                "value_name": "30.8 cm",
+                "value_struct": {
+                    "number": 30.8,
+                    "unit": "cm"
+                },
+                "name": "Largo del paquete",
+                "value_id": null,
+                "values": [
+                    {
+                        "id": null,
+                        "name": "30.8 cm",
+                        "struct": {
+                            "number": 30.8,
+                            "unit": "cm"
+                        },
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 1
+            },
+            {
+                "id": "PACKAGE_WEIGHT",
+                "name": "Peso del paquete",
+                "value_id": null,
+                "value_name": "740 g",
+                "value_struct": {
+                    "number": 740,
+                    "unit": "g"
+                },
+                "values": [
+                    {
+                        "id": null,
+                        "name": "740 g",
+                        "struct": {
+                            "number": 740,
+                            "unit": "g"
+                        },
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 1
+            }
+        ],
+        "differential_pricing": {
+            "id": 33678187
+        },
+        "original_price": null,
+        "category_id": "MLA3724",
+        "official_store_id": 1,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA18701507",
+        "tags": [
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "certified_quality_thumbnail",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 10
+    },
+    {
+        "id": "MLA1142017031",
+        "site_id": "MLA",
+        "title": "Zapatillas Para Hombre Topper Dakota Color Negro - Adulto 39 Ar",
+        "seller": {
+            "id": 608887919,
+            "permalink": "http://perfil.mercadolibre.com.ar/MERCADOLIBRE+MODA_AR",
+            "registration_date": "2020-07-13T14:31:00.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": ["brand", "large_seller", "messages_as_seller"],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0022,
+                        "value": 125
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 50124
+                    }
+                },
+                "transactions": {
+                    "canceled": 34497,
+                    "period": "historic",
+                    "total": 296985,
+                    "ratings": {
+                        "negative": 0.03,
+                        "neutral": 0.01,
+                        "positive": 0.96
+                    },
+                    "completed": 262488
+                }
+            }
+        },
+        "price": 16099,
+        "prices": {
+            "id": "MLA1142017031",
+            "prices": [
+                {
+                    "id": "179",
+                    "type": "standard",
+                    "amount": 16099,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-02T13:39:09Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "15",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 11399,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-07-06T12:32:13Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 4,
+        "sold_quantity": 84,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_pro",
+        "stop_time": "2042-06-05T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-para-hombre-topper-dakota-color-negro-adulto-39-ar/p/MLA18668108",
+        "thumbnail": "http://http2.mlstatic.com/D_817396-MLA49199498823_022022-I.jpg",
+        "thumbnail_id": "817396-MLA49199498823_022022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 6,
+            "amount": 2683.17,
+            "rate": 0,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Villa Celina"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["fulfillment", "mandatory_free_shipping"],
+            "logistic_type": "fulfillment",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Villa Celina"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "value_struct": null,
+                "values": [
+                    {
+                        "name": "Topper",
+                        "struct": null,
+                        "source": 1,
+                        "id": "415948"
+                    }
+                ],
+                "source": 1,
+                "value_name": "Topper",
+                "name": "Marca",
+                "value_id": "415948",
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "id": "BRAND"
+            },
+            {
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "name": "Condición del ítem",
+                "value_id": "2230284",
+                "values": [
+                    {
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "id": "ITEM_CONDITION",
+                "value_name": "Nuevo",
+                "value_struct": null
+            },
+            {
+                "id": "MODEL",
+                "value_id": "66771",
+                "value_name": "Dakota",
+                "values": [
+                    {
+                        "struct": null,
+                        "source": 1,
+                        "id": "66771",
+                        "name": "Dakota"
+                    }
+                ],
+                "name": "Modelo",
+                "value_struct": null,
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 1
+            },
+            {
+                "name": "Largo del paquete",
+                "attribute_group_id": "OTHERS",
+                "source": 1,
+                "values": [
+                    {
+                        "id": null,
+                        "name": "32.4 cm",
+                        "struct": {
+                            "unit": "cm",
+                            "number": 32.4
+                        },
+                        "source": 1
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "id": "PACKAGE_LENGTH",
+                "value_id": null,
+                "value_name": "32.4 cm",
+                "value_struct": {
+                    "number": 32.4,
+                    "unit": "cm"
+                }
+            },
+            {
+                "value_id": null,
+                "value_name": "640 g",
+                "value_struct": {
+                    "number": 640,
+                    "unit": "g"
+                },
+                "values": [
+                    {
+                        "id": null,
+                        "name": "640 g",
+                        "struct": {
+                            "number": 640,
+                            "unit": "g"
+                        },
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "id": "PACKAGE_WEIGHT",
+                "name": "Peso del paquete"
+            }
+        ],
+        "differential_pricing": {
+            "id": 35713299
+        },
+        "original_price": null,
+        "category_id": "MLA3724",
+        "official_store_id": 1,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA18668108",
+        "tags": [
+            "ahora-6",
+            "certified_quality_thumbnail",
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "immediate_payment",
+            "shipping_guaranteed"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 11
+    },
+    {
+        "id": "MLA800264201",
+        "site_id": "MLA",
+        "title": "Zapatillas Jaguar Oficial Deportiva Art. # 918 Urbana Hombre Y Mujer",
+        "seller": {
+            "id": 278944476,
+            "permalink": "http://perfil.mercadolibre.com.ar/JAGUAROFICIAL",
+            "registration_date": "2017-10-18T15:25:57.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "brand",
+                "large_seller",
+                "mshops",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 2.0e-4,
+                        "value": 10
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0069,
+                        "value": 243
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.0169,
+                        "value": 558
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 31848
+                    }
+                },
+                "transactions": {
+                    "canceled": 20484,
+                    "period": "historic",
+                    "total": 211438,
+                    "ratings": {
+                        "negative": 0.03,
+                        "neutral": 0.04,
+                        "positive": 0.93
+                    },
+                    "completed": 190954
+                }
+            }
+        },
+        "price": 4124,
+        "prices": {
+            "id": "MLA800264201",
+            "prices": [
+                {
+                    "id": "299",
+                    "type": "standard",
+                    "amount": 4341,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-05T03:05:11Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                },
+                {
+                    "id": "300",
+                    "type": "promotion",
+                    "amount": 4124,
+                    "regular_amount": 4341,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-08T02:32:59Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-09-08T02:30:00Z",
+                        "end_time": "2022-09-09T03:00:00Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "campaign_id": "MLA15389",
+                        "promotion_id": "MLA15389",
+                        "promotion_type": "campaign"
+                    }
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "229",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 2524,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-02-22T07:23:18Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 500,
+        "sold_quantity": 50000,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2042-05-28T10:32:07.000Z",
+        "condition": "new",
+        "permalink": "https://articulo.mercadolibre.com.ar/MLA-800264201-zapatillas-jaguar-oficial-deportiva-art-918-urbana-hombre-y-mujer-_JM",
+        "thumbnail": "http://http2.mlstatic.com/D_968157-MLA27429372161_052018-I.jpg",
+        "thumbnail_id": "968157-MLA27429372161_052018",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 666.06,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Valentín Alsina"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "me2",
+            "tags": ["self_service_in", "fbm_in_process"],
+            "logistic_type": "cross_docking",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Valentín Alsina"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "id": "BRAND",
+                "value_name": "Jaguar",
+                "attribute_group_name": "Otros",
+                "name": "Marca",
+                "value_id": "23629",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "23629",
+                        "name": "Jaguar",
+                        "struct": null,
+                        "source": 4060709329251625
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "source": 4060709329251625
+            },
+            {
+                "source": 8342579661593500,
+                "value_struct": null,
+                "name": "Condición del ítem",
+                "value_id": "2230284",
+                "value_name": "Nuevo",
+                "values": [
+                    {
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 8342579661593500
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "id": "ITEM_CONDITION"
+            },
+            {
+                "value_struct": null,
+                "attribute_group_id": "OTHERS",
+                "id": "MODEL",
+                "value_id": null,
+                "value_name": "918 Deportiva",
+                "source": 4060709329251625,
+                "name": "Modelo",
+                "values": [
+                    {
+                        "name": "918 Deportiva",
+                        "struct": null,
+                        "source": 4060709329251625,
+                        "id": null
+                    }
+                ],
+                "attribute_group_name": "Otros"
+            }
+        ],
+        "original_price": 4341,
+        "category_id": "MLA109027",
+        "official_store_id": 2293,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA15718514",
+        "tags": [
+            "good_quality_thumbnail",
+            "loyalty_discount_eligible",
+            "brand_verified",
+            "certified_quality_thumbnail",
+            "good_quality_picture",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "order_backend": 12,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null
+    },
+    {
+        "id": "MLA1133096452",
+        "site_id": "MLA",
+        "title": "Zapatillas Para Hombre Topper Squat Color Negro - Adulto 39 Ar",
+        "seller": {
+            "id": 608887919,
+            "permalink": "http://perfil.mercadolibre.com.ar/MERCADOLIBRE+MODA_AR",
+            "registration_date": "2020-07-13T14:31:00.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": ["brand", "large_seller", "messages_as_seller"],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0022,
+                        "value": 125
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 50124
+                    }
+                },
+                "transactions": {
+                    "canceled": 34497,
+                    "period": "historic",
+                    "total": 296985,
+                    "ratings": {
+                        "negative": 0.03,
+                        "neutral": 0.01,
+                        "positive": 0.96
+                    },
+                    "completed": 262488
+                }
+            }
+        },
+        "price": 15899,
+        "prices": {
+            "id": "MLA1133096452",
+            "prices": [
+                {
+                    "id": "839756",
+                    "type": "standard",
+                    "amount": 15899,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-02T13:39:08Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "839699",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 9799,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-06-20T05:56:20Z"
+                },
+                {
+                    "id": "839700",
+                    "type": "was",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-06-20T05:56:20Z",
+                        "end_time": "2022-06-27T05:56:20Z",
+                        "eligible": true
+                    },
+                    "amount": 11099,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-06-20T05:56:20Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 6,
+        "sold_quantity": 126,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_pro",
+        "stop_time": "2042-04-15T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-para-hombre-topper-squat-color-negro-adulto-39-ar/p/MLA18681616",
+        "thumbnail": "http://http2.mlstatic.com/D_662493-MLA51324989338_082022-I.jpg",
+        "thumbnail_id": "662493-MLA51324989338_082022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 6,
+            "amount": 2649.83,
+            "rate": 0,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Villa Celina"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["fulfillment", "mandatory_free_shipping"],
+            "logistic_type": "fulfillment",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Villa Celina"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "source": 1,
+                "name": "Marca",
+                "value_id": "415948",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "415948",
+                        "name": "Topper",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "id": "BRAND",
+                "value_name": "Topper",
+                "attribute_group_name": "Otros"
+            },
+            {
+                "value_name": "Nuevo",
+                "value_struct": null,
+                "values": [
+                    {
+                        "source": 1,
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "id": "ITEM_CONDITION",
+                "value_id": "2230284",
+                "source": 1,
+                "name": "Condición del ítem",
+                "attribute_group_id": "OTHERS"
+            },
+            {
+                "name": "Modelo",
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "values": [
+                    {
+                        "id": "9207004",
+                        "name": "Squat",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "source": 1,
+                "id": "MODEL",
+                "value_id": "9207004",
+                "value_name": "Squat",
+                "value_struct": null
+            },
+            {
+                "value_struct": {
+                    "number": 33.6,
+                    "unit": "cm"
+                },
+                "attribute_group_id": "OTHERS",
+                "source": 1,
+                "id": "PACKAGE_LENGTH",
+                "name": "Largo del paquete",
+                "value_name": "33.6 cm",
+                "value_id": null,
+                "values": [
+                    {
+                        "struct": {
+                            "number": 33.6,
+                            "unit": "cm"
+                        },
+                        "source": 1,
+                        "id": null,
+                        "name": "33.6 cm"
+                    }
+                ],
+                "attribute_group_name": "Otros"
+            },
+            {
+                "id": "PACKAGE_WEIGHT",
+                "value_id": null,
+                "value_name": "520 g",
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "name": "Peso del paquete",
+                "value_struct": {
+                    "number": 520,
+                    "unit": "g"
+                },
+                "values": [
+                    {
+                        "id": null,
+                        "name": "520 g",
+                        "struct": {
+                            "number": 520,
+                            "unit": "g"
+                        },
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS"
+            }
+        ],
+        "differential_pricing": {
+            "id": 33678187
+        },
+        "original_price": null,
+        "category_id": "MLA3724",
+        "official_store_id": 1,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA18681616",
+        "tags": [
+            "certified_quality_thumbnail",
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 13
+    },
+    {
+        "id": "MLA840621561",
+        "site_id": "MLA",
+        "title": "Botas Bucaneras Elastizadas Gamuza Botas Largas Mujer Taco",
+        "seller": {
+            "id": 475972814,
+            "permalink": "http://perfil.mercadolibre.com.ar/INTENSITYSHOES",
+            "registration_date": "2019-10-01T19:45:07.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "normal",
+                "mshops",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 1
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0078,
+                        "value": 17
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.0014,
+                        "value": 3
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 1977
+                    }
+                },
+                "transactions": {
+                    "canceled": 992,
+                    "period": "historic",
+                    "total": 11754,
+                    "ratings": {
+                        "negative": 0.02,
+                        "neutral": 0.01,
+                        "positive": 0.97
+                    },
+                    "completed": 10762
+                }
+            }
+        },
+        "price": 6109.06,
+        "prices": {
+            "id": "MLA840621561",
+            "prices": [
+                {
+                    "id": "72",
+                    "type": "standard",
+                    "amount": 6499,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-02-25T17:43:10Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                },
+                {
+                    "id": "100",
+                    "type": "promotion",
+                    "amount": 6109.06,
+                    "regular_amount": 6499,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-05T03:02:04Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-09-05T03:00:00Z",
+                        "end_time": "2022-09-19T03:00:00Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "campaign_id": "MLA14871",
+                        "promotion_id": "OFFER-MLA840621561-388080485",
+                        "promotion_type": "campaign"
+                    }
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "71",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 4999,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-02-22T07:26:17Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 200,
+        "sold_quantity": 500,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2040-02-17T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://articulo.mercadolibre.com.ar/MLA-840621561-botas-bucaneras-elastizadas-gamuza-botas-largas-mujer-taco-_JM",
+        "thumbnail": "http://http2.mlstatic.com/D_745998-MLA50939977909_072022-I.jpg",
+        "thumbnail_id": "745998-MLA50939977909_072022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 986.66,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-C",
+            "state_name": "Capital Federal",
+            "city_id": "TUxBQlBBTDI1MTVa",
+            "city_name": "Palermo"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["self_service_in", "mandatory_free_shipping"],
+            "logistic_type": "cross_docking",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-C",
+                "name": "Capital Federal"
+            },
+            "city": {
+                "id": "TUxBQlBBTDI1MTVa",
+                "name": "Palermo"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "attribute_group_name": "Otros",
+                "value_name": "Intensityshoes",
+                "value_struct": null,
+                "values": [
+                    {
+                        "name": "Intensityshoes",
+                        "struct": null,
+                        "source": 2860837171021627,
+                        "id": null
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "source": 2860837171021627,
+                "id": "BRAND",
+                "name": "Marca",
+                "value_id": null
+            },
+            {
+                "value_name": "Nuevo",
+                "values": [
+                    {
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 2860837171021627
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 2860837171021627,
+                "id": "ITEM_CONDITION",
+                "name": "Condición del ítem",
+                "value_id": "2230284",
+                "value_struct": null
+            },
+            {
+                "value_id": null,
+                "value_struct": null,
+                "values": [
+                    {
+                        "name": "bucaneras",
+                        "struct": null,
+                        "source": 2860837171021627,
+                        "id": null
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "id": "MODEL",
+                "name": "Modelo",
+                "value_name": "bucaneras",
+                "attribute_group_name": "Otros",
+                "source": 2860837171021627
+            }
+        ],
+        "original_price": 6499,
+        "category_id": "MLA414251",
+        "official_store_id": null,
+        "domain_id": "MLA-BOOTS_AND_BOOTIES",
+        "catalog_product_id": null,
+        "tags": [
+            "good_quality_thumbnail",
+            "moderation_penalty",
+            "brand_verified",
+            "good_quality_picture",
+            "immediate_payment",
+            "cart_eligible",
+            "best_seller_candidate"
+        ],
+        "order_backend": 14,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null
+    },
+    {
+        "id": "MLA1148725292",
+        "site_id": "MLA",
+        "title": "Zapatillas Para Mujer Fila Euro Jogger Color Grafito/plata/rosa - Adulto 40 Ar",
+        "seller": {
+            "id": 177433927,
+            "permalink": "http://perfil.mercadolibre.com.ar/GRIDANNEXSA",
+            "registration_date": "2015-02-18T11:51:57.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "brand",
+                "large_seller",
+                "mshops",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0.0084,
+                        "value": 309
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0143,
+                        "value": 522
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.0245,
+                        "value": 836
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 32736
+                    }
+                },
+                "transactions": {
+                    "canceled": 22400,
+                    "period": "historic",
+                    "total": 249805,
+                    "ratings": {
+                        "negative": 0.06,
+                        "neutral": 0.03,
+                        "positive": 0.91
+                    },
+                    "completed": 227405
+                }
+            }
+        },
+        "price": 14990,
+        "prices": {
+            "id": "MLA1148725292",
+            "prices": [
+                {
+                    "id": "2",
+                    "type": "standard",
+                    "amount": 14990,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-01T21:09:17Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "3",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 13990,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-09-01T21:09:20Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 18,
+        "sold_quantity": 39,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2042-07-23T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-para-mujer-fila-euro-jogger-color-grafitoplatarosa-adulto-40-ar/p/MLA18653100",
+        "thumbnail": "http://http2.mlstatic.com/D_775011-MLA49714005040_042022-I.jpg",
+        "thumbnail_id": "775011-MLA49714005040_042022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 2421.01,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Martínez"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["self_service_in", "mandatory_free_shipping"],
+            "logistic_type": "cross_docking",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Martínez"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "id": "BRAND",
+                "value_id": "243483",
+                "value_name": "Fila",
+                "value_struct": null,
+                "attribute_group_id": "OTHERS",
+                "name": "Marca",
+                "values": [
+                    {
+                        "source": 1,
+                        "id": "243483",
+                        "name": "Fila",
+                        "struct": null
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "source": 1
+            },
+            {
+                "name": "Condición del ítem",
+                "value_name": "Nuevo",
+                "value_struct": null,
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "id": "ITEM_CONDITION",
+                "value_id": "2230284",
+                "values": [
+                    {
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 1,
+                        "id": "2230284"
+                    }
+                ],
+                "attribute_group_id": "OTHERS"
+            },
+            {
+                "values": [
+                    {
+                        "name": "Euro",
+                        "struct": null,
+                        "source": 1,
+                        "id": "2676824"
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "name": "Línea",
+                "value_id": "2676824",
+                "value_name": "Euro",
+                "value_struct": null,
+                "id": "LINE"
+            },
+            {
+                "name": "Modelo",
+                "value_id": "16989",
+                "attribute_group_id": "OTHERS",
+                "id": "MODEL",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "16989",
+                        "name": "Jogger",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "value_name": "Jogger"
+            }
+        ],
+        "original_price": null,
+        "category_id": "MLA109027",
+        "official_store_id": 1564,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA18653100",
+        "tags": [
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "brand_verified",
+            "certified_quality_thumbnail",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 15
+    },
+    {
+        "id": "MLA1140538027",
+        "site_id": "MLA",
+        "title": "Zapatillas Para Hombre adidas Grand Court Color Cloud White/core Black/cloud White - Adulto 41 Ar",
+        "seller": {
+            "id": 652366401,
+            "permalink": "http://perfil.mercadolibre.com.ar/ADIDASARGENTINASAADIDASARG",
+            "registration_date": "2020-09-28T15:41:11.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": ["brand", "large_seller", "mshops", "messages_as_seller"],
+            "seller_reputation": {
+                "power_seller_status": null,
+                "real_level": "orange",
+                "level_id": "5_green",
+                "protection_end_date": "2022-10-14T23:59:00.000-04:00",
+                "metrics": {
+                    "cancellations": {
+                        "excluded": {
+                            "real_value": 102,
+                            "real_rate": 0.0048
+                        },
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "claims": {
+                        "excluded": {
+                            "real_value": 329,
+                            "real_rate": 0.0157
+                        },
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "delayed_handling_time": {
+                        "excluded": {
+                            "real_value": 4353,
+                            "real_rate": 0.2582
+                        },
+                        "period": "60 days",
+                        "rate": 0,
+                        "value": 0
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 17822
+                    }
+                },
+                "transactions": {
+                    "canceled": 23830,
+                    "period": "historic",
+                    "total": 111781,
+                    "ratings": {
+                        "negative": 0.3,
+                        "neutral": 0.05,
+                        "positive": 0.65
+                    },
+                    "completed": 87951
+                }
+            }
+        },
+        "price": 21388,
+        "prices": {
+            "id": "MLA1140538027",
+            "prices": [
+                {
+                    "id": "8",
+                    "type": "standard",
+                    "amount": 22999,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-06T12:27:30Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                },
+                {
+                    "id": "16",
+                    "type": "promotion",
+                    "amount": 20699,
+                    "regular_amount": 22999,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-08T13:10:10Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-09-07T15:00:00Z",
+                        "end_time": "2022-09-19T02:59:00Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "campaign_id": "P-MLA7485001",
+                        "promotion_id": "OFFER-MLA1140538027-397038438",
+                        "promotion_type": "marketplace_campaign",
+                        "discount_meli_amount": 689,
+                        "campaign_discount_percentage": 10,
+                        "campaign_end_date": "2022-09-19T02:59:00Z",
+                        "order_item_price": 21388,
+                        "funding_mode": "coupon"
+                    }
+                },
+                {
+                    "id": "17",
+                    "type": "promotion",
+                    "amount": 21849.05,
+                    "regular_amount": 22999,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-08T13:10:10Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-09-05T03:00:00Z",
+                        "end_time": "2022-09-19T03:00:00Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "campaign_id": "MLA14871",
+                        "promotion_id": "OFFER-MLA1140538027-398289498",
+                        "promotion_type": "campaign"
+                    }
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "4",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 16999,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-06-13T03:18:37Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 151,
+        "sold_quantity": 84,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_pro",
+        "stop_time": "2042-05-28T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-para-hombre-adidas-grand-court-color-cloud-whitecore-blackcloud-white-adulto-41-ar/p/MLA18652291",
+        "thumbnail": "http://http2.mlstatic.com/D_862928-MLA49704231640_042022-I.jpg",
+        "thumbnail_id": "862928-MLA49704231640_042022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 6,
+            "amount": 3564.67,
+            "rate": 0,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "TUxBQ0VTQzQ3YTc0",
+            "city_name": "Escobar"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["mandatory_free_shipping", "optional_me2_chosen"],
+            "logistic_type": "cross_docking",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "TUxBQ0VTQzQ3YTc0",
+                "name": "Escobar"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "value_name": "adidas",
+                "values": [
+                    {
+                        "id": "14810",
+                        "name": "adidas",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "attribute_group_id": "OTHERS",
+                "id": "BRAND",
+                "name": "Marca",
+                "value_id": "14810",
+                "value_struct": null
+            },
+            {
+                "id": "ITEM_CONDITION",
+                "values": [
+                    {
+                        "struct": null,
+                        "source": 1,
+                        "id": "2230284",
+                        "name": "Nuevo"
+                    }
+                ],
+                "source": 1,
+                "name": "Condición del ítem",
+                "value_id": "2230284",
+                "value_name": "Nuevo",
+                "value_struct": null,
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros"
+            },
+            {
+                "id": "MODEL",
+                "value_id": "8747866",
+                "value_name": "Grand Court",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "8747866",
+                        "name": "Grand Court",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "name": "Modelo",
+                "attribute_group_id": "OTHERS"
+            }
+        ],
+        "differential_pricing": {
+            "id": 35713299
+        },
+        "original_price": 22999,
+        "category_id": "MLA3724",
+        "official_store_id": 964,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA18652291",
+        "tags": [
+            "ahora-6",
+            "certified_quality_thumbnail",
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "immediate_payment",
+            "best_seller_candidate"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 16
+    },
+    {
+        "id": "MLA826728886",
+        "site_id": "MLA",
+        "title": "Zapatillas Skater De Lona Unisex :: Oferta!!",
+        "seller": {
+            "id": 154653260,
+            "permalink": "http://perfil.mercadolibre.com.ar/CALZADOSJP",
+            "registration_date": "2014-02-26T09:20:27.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "normal",
+                "credits_priority_4",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 4.0e-4,
+                        "value": 3
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.002,
+                        "value": 13
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.0051,
+                        "value": 31
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 5824
+                    }
+                },
+                "transactions": {
+                    "canceled": 2700,
+                    "period": "historic",
+                    "total": 40171,
+                    "ratings": {
+                        "negative": 0.01,
+                        "neutral": 0.01,
+                        "positive": 0.98
+                    },
+                    "completed": 37471
+                }
+            }
+        },
+        "price": 2199,
+        "prices": {
+            "id": "MLA826728886",
+            "prices": [
+                {
+                    "id": "94",
+                    "type": "standard",
+                    "amount": 2199,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-07-27T10:43:50Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "91",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 1399,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-07-03T04:13:49Z"
+                },
+                {
+                    "id": "92",
+                    "type": "was",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-07-03T04:13:49Z",
+                        "end_time": "2022-07-10T04:13:49Z",
+                        "eligible": true
+                    },
+                    "amount": 1799,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-07-03T04:13:49Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 250,
+        "sold_quantity": 5000,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2039-11-17T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://articulo.mercadolibre.com.ar/MLA-826728886-zapatillas-skater-de-lona-unisex-oferta-_JM",
+        "thumbnail": "http://http2.mlstatic.com/D_693424-MLA49985058216_052022-I.jpg",
+        "thumbnail_id": "693424-MLA49985058216_052022",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 355.16,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Lanus Oeste"
+        },
+        "shipping": {
+            "free_shipping": false,
+            "mode": "me2",
+            "tags": ["self_service_in"],
+            "logistic_type": "cross_docking",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Lanus Oeste"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "value_name": "Wembly",
+                "values": [
+                    {
+                        "id": "12902220",
+                        "name": "Wembly",
+                        "struct": null,
+                        "source": 6808261514773724
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 6808261514773724,
+                "id": "BRAND",
+                "name": "Marca",
+                "value_id": "12902220",
+                "value_struct": null
+            },
+            {
+                "value_name": "Nuevo",
+                "attribute_group_id": "OTHERS",
+                "source": 6808261514773724,
+                "id": "ITEM_CONDITION",
+                "name": "Condición del ítem",
+                "value_id": "2230284",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 6808261514773724
+                    }
+                ],
+                "attribute_group_name": "Otros"
+            },
+            {
+                "id": "MODEL",
+                "value_name": "115",
+                "value_struct": null,
+                "attribute_group_name": "Otros",
+                "source": 6808261514773724,
+                "name": "Modelo",
+                "value_id": null,
+                "values": [
+                    {
+                        "id": null,
+                        "name": "115",
+                        "struct": null,
+                        "source": 6808261514773724
+                    }
+                ],
+                "attribute_group_id": "OTHERS"
+            }
+        ],
+        "original_price": null,
+        "category_id": "MLA109027",
+        "official_store_id": null,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": null,
+        "tags": [
+            "moderation_penalty",
+            "brand_verified",
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "loyalty_discount_eligible",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "order_backend": 17,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null
+    },
+    {
+        "id": "MLA1125097112",
+        "site_id": "MLA",
+        "title": "Zapatillas Para Hombre Topper Fast Monocromo Color Negro - Adulto 44 Ar",
+        "seller": {
+            "id": 493160091,
+            "permalink": "http://perfil.mercadolibre.com.ar/CLICK+SPORT",
+            "registration_date": "2019-11-25T18:50:00.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "brand",
+                "large_seller",
+                "eshop",
+                "mshops",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "eshop": {
+                "seller": 493160091,
+                "eshop_rubro": null,
+                "eshop_id": 404089,
+                "nick_name": "CLICK SPORT",
+                "site_id": "MLA",
+                "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/493160091v76eff0.png",
+                "eshop_status_id": 1,
+                "eshop_experience": 0,
+                "eshop_locations": []
+            },
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0.005,
+                        "value": 43
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.006,
+                        "value": 52
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.0406,
+                        "value": 331
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 7605
+                    }
+                },
+                "transactions": {
+                    "canceled": 6808,
+                    "period": "historic",
+                    "total": 57592,
+                    "ratings": {
+                        "negative": 0.04,
+                        "neutral": 0.02,
+                        "positive": 0.94
+                    },
+                    "completed": 50784
+                }
+            }
+        },
+        "price": 15199,
+        "prices": {
+            "id": "MLA1125097112",
+            "prices": [
+                {
+                    "id": "11",
+                    "type": "standard",
+                    "amount": 15199,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-08-31T16:31:11Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "6",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 9349,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-05-28T04:40:02Z"
+                },
+                {
+                    "id": "7",
+                    "type": "was",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-05-28T04:40:02Z",
+                        "end_time": "2022-06-04T04:40:02Z",
+                        "eligible": true
+                    },
+                    "amount": 9349,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-05-28T04:40:02Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 5,
+        "sold_quantity": 31,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2042-02-20T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-para-hombre-topper-fast-monocromo-color-negro-adulto-44-ar/p/MLA18681585",
+        "thumbnail": "http://http2.mlstatic.com/D_945603-MLA47711043285_092021-I.jpg",
+        "thumbnail_id": "945603-MLA47711043285_092021",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 2454.77,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-U",
+            "state_name": "Chubut",
+            "city_id": null,
+            "city_name": "Trelew"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["fulfillment", "mandatory_free_shipping"],
+            "logistic_type": "fulfillment",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-U",
+                "name": "Chubut"
+            },
+            "city": {
+                "id": null,
+                "name": "Trelew"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "id": "BRAND",
+                "name": "Marca",
+                "value_struct": null,
+                "attribute_group_id": "OTHERS",
+                "value_id": "415948",
+                "value_name": "Topper",
+                "values": [
+                    {
+                        "struct": null,
+                        "source": 1,
+                        "id": "415948",
+                        "name": "Topper"
+                    }
+                ]
+            },
+            {
+                "id": "ITEM_CONDITION",
+                "name": "Condición del ítem",
+                "value_id": "2230284",
+                "value_struct": null,
+                "attribute_group_name": "Otros",
+                "value_name": "Nuevo",
+                "values": [
+                    {
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 2860837171021627,
+                        "id": "2230284"
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "source": 2860837171021627
+            },
+            {
+                "id": "MODEL",
+                "name": "Modelo",
+                "value_id": "125165",
+                "value_struct": null,
+                "attribute_group_name": "Otros",
+                "value_name": "Fast",
+                "values": [
+                    {
+                        "id": "125165",
+                        "name": "Fast",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "source": 1
+            },
+            {
+                "id": "PACKAGE_LENGTH",
+                "name": "Largo del paquete",
+                "values": [
+                    {
+                        "id": null,
+                        "name": "33 cm",
+                        "struct": {
+                            "number": 33,
+                            "unit": "cm"
+                        },
+                        "source": 1
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "value_id": null,
+                "value_name": "33 cm",
+                "value_struct": {
+                    "number": 33,
+                    "unit": "cm"
+                },
+                "attribute_group_id": "OTHERS"
+            },
+            {
+                "value_name": "700 g",
+                "values": [
+                    {
+                        "id": null,
+                        "name": "700 g",
+                        "struct": {
+                            "number": 700,
+                            "unit": "g"
+                        },
+                        "source": 1
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "value_struct": {
+                    "number": 700,
+                    "unit": "g"
+                },
+                "attribute_group_id": "OTHERS",
+                "source": 1,
+                "id": "PACKAGE_WEIGHT",
+                "name": "Peso del paquete",
+                "value_id": null
+            }
+        ],
+        "original_price": null,
+        "category_id": "MLA109027",
+        "official_store_id": 2225,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA18681585",
+        "tags": [
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "loyalty_discount_eligible",
+            "moderation_penalty",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 18
+    },
+    {
+        "id": "MLA1154260620",
+        "site_id": "MLA",
+        "title": "Zapatillas Para Mujer Jaguar 4310 Color Beige - Adulto 39 Ar",
+        "seller": {
+            "id": 364936605,
+            "permalink": "http://perfil.mercadolibre.com.ar/MP+DEPORTES",
+            "registration_date": "2018-10-18T19:02:03.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "normal",
+                "credits_profile",
+                "mshops",
+                "messages_as_seller"
+            ],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 0.0073,
+                        "value": 17
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.0026,
+                        "value": 6
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.0104,
+                        "value": 23
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 2034
+                    }
+                },
+                "transactions": {
+                    "canceled": 870,
+                    "period": "historic",
+                    "total": 7469,
+                    "ratings": {
+                        "negative": 0.05,
+                        "neutral": 0.01,
+                        "positive": 0.94
+                    },
+                    "completed": 6599
+                }
+            }
+        },
+        "price": 8724.17,
+        "prices": {
+            "id": "MLA1154260620",
+            "prices": [
+                {
+                    "id": "6",
+                    "type": "standard",
+                    "amount": 9587,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-05T13:43:00Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                },
+                {
+                    "id": "7",
+                    "type": "promotion",
+                    "amount": 8724.17,
+                    "regular_amount": 9587,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-09-05T20:38:42Z",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-09-05T02:30:00Z",
+                        "end_time": "2022-09-19T03:00:00Z",
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {
+                        "campaign_id": "MLA14871",
+                        "promotion_id": "MLA14871",
+                        "promotion_type": "campaign"
+                    }
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "3",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 8852,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-08-18T22:14:05Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 2,
+        "sold_quantity": 8,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2042-08-13T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://www.mercadolibre.com.ar/zapatillas-para-mujer-jaguar-4310-color-beige-adulto-39-ar/p/MLA18655490",
+        "thumbnail": "http://http2.mlstatic.com/D_907714-MLA47429121758_092021-I.jpg",
+        "thumbnail_id": "907714-MLA47429121758_092021",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 1409.03,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": "TUxBQ05BVjEwODk",
+            "city_name": "Navarro"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["fulfillment", "mandatory_free_shipping"],
+            "logistic_type": "fulfillment",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": "TUxBQ05BVjEwODk",
+                "name": "Navarro"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "name": "Marca",
+                "value_name": "Jaguar",
+                "attribute_group_id": "OTHERS",
+                "id": "BRAND",
+                "value_struct": null,
+                "values": [
+                    {
+                        "name": "Jaguar",
+                        "struct": null,
+                        "source": 1,
+                        "id": "23629"
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "value_id": "23629"
+            },
+            {
+                "id": "ITEM_CONDITION",
+                "name": "Condición del ítem",
+                "value_name": "Nuevo",
+                "attribute_group_id": "OTHERS",
+                "source": 2860837171021627,
+                "value_id": "2230284",
+                "value_struct": null,
+                "values": [
+                    {
+                        "id": "2230284",
+                        "name": "Nuevo",
+                        "struct": null,
+                        "source": 2860837171021627
+                    }
+                ],
+                "attribute_group_name": "Otros"
+            },
+            {
+                "id": "MODEL",
+                "value_id": "2647289",
+                "value_name": "4310",
+                "value_struct": null,
+                "name": "Modelo",
+                "values": [
+                    {
+                        "id": "2647289",
+                        "name": "4310",
+                        "struct": null,
+                        "source": 1
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "source": 1
+            },
+            {
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "name": "Largo del paquete",
+                "value_id": null,
+                "value_name": "23.4 cm",
+                "value_struct": {
+                    "number": 23.4,
+                    "unit": "cm"
+                },
+                "id": "PACKAGE_LENGTH",
+                "values": [
+                    {
+                        "name": "23.4 cm",
+                        "struct": {
+                            "number": 23.4,
+                            "unit": "cm"
+                        },
+                        "source": 1,
+                        "id": null
+                    }
+                ],
+                "source": 1
+            },
+            {
+                "value_name": "680 g",
+                "value_struct": {
+                    "number": 680,
+                    "unit": "g"
+                },
+                "attribute_group_name": "Otros",
+                "source": 1,
+                "name": "Peso del paquete",
+                "value_id": null,
+                "values": [
+                    {
+                        "source": 1,
+                        "id": null,
+                        "name": "680 g",
+                        "struct": {
+                            "number": 680,
+                            "unit": "g"
+                        }
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "id": "PACKAGE_WEIGHT"
+            }
+        ],
+        "original_price": 9587,
+        "category_id": "MLA109027",
+        "official_store_id": null,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA18655490",
+        "tags": [
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "moderation_penalty",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "catalog_listing": true,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null,
+        "order_backend": 19
+    },
+    {
+        "id": "MLA620192532",
+        "site_id": "MLA",
+        "title": "Zapatillas De Cuero Hombre Fierros Art. 09 - Talle 46",
+        "seller": {
+            "id": 154653260,
+            "permalink": "http://perfil.mercadolibre.com.ar/CALZADOSJP",
+            "registration_date": "2014-02-26T09:20:27.000-04:00",
+            "car_dealer": false,
+            "real_estate_agency": false,
+            "tags": [
+                "normal",
+                "credits_priority_4",
+                "credits_profile",
+                "messages_as_seller"
+            ],
+            "seller_reputation": {
+                "power_seller_status": "platinum",
+                "level_id": "5_green",
+                "metrics": {
+                    "cancellations": {
+                        "period": "60 days",
+                        "rate": 4.0e-4,
+                        "value": 3
+                    },
+                    "claims": {
+                        "period": "60 days",
+                        "rate": 0.002,
+                        "value": 13
+                    },
+                    "delayed_handling_time": {
+                        "period": "60 days",
+                        "rate": 0.0051,
+                        "value": 31
+                    },
+                    "sales": {
+                        "period": "60 days",
+                        "completed": 5824
+                    }
+                },
+                "transactions": {
+                    "canceled": 2700,
+                    "period": "historic",
+                    "total": 40171,
+                    "ratings": {
+                        "negative": 0.01,
+                        "neutral": 0.01,
+                        "positive": 0.98
+                    },
+                    "completed": 37471
+                }
+            }
+        },
+        "price": 8199,
+        "prices": {
+            "id": "MLA620192532",
+            "prices": [
+                {
+                    "id": "113",
+                    "type": "standard",
+                    "amount": 8199,
+                    "regular_amount": null,
+                    "currency_id": "ARS",
+                    "last_updated": "2022-07-27T10:43:50Z",
+                    "conditions": {
+                        "context_restrictions": [],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "exchange_rate_context": "DEFAULT",
+                    "metadata": {}
+                }
+            ],
+            "presentation": {
+                "display_currency": "ARS"
+            },
+            "payment_method_prices": [],
+            "reference_prices": [
+                {
+                    "id": "111",
+                    "type": "min_standard",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": null,
+                        "end_time": null,
+                        "eligible": true
+                    },
+                    "amount": 5199,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-07-01T04:13:58Z"
+                },
+                {
+                    "id": "112",
+                    "type": "was",
+                    "conditions": {
+                        "context_restrictions": ["channel_marketplace"],
+                        "start_time": "2022-07-01T04:13:58Z",
+                        "end_time": "2022-07-08T04:13:58Z",
+                        "eligible": true
+                    },
+                    "amount": 5927,
+                    "currency_id": "ARS",
+                    "exchange_rate_context": "DEFAULT",
+                    "tags": [],
+                    "last_updated": "2022-07-01T04:13:58Z"
+                }
+            ],
+            "purchase_discounts": []
+        },
+        "sale_price": null,
+        "currency_id": "ARS",
+        "available_quantity": 500,
+        "sold_quantity": 5000,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2036-05-08T20:00:09.000Z",
+        "condition": "new",
+        "permalink": "https://articulo.mercadolibre.com.ar/MLA-620192532-zapatillas-de-cuero-hombre-fierros-art-09-talle-46-_JM",
+        "thumbnail": "http://http2.mlstatic.com/D_919521-MLA40617625014_012020-I.jpg",
+        "thumbnail_id": "919521-MLA40617625014_012020",
+        "accepts_mercadopago": true,
+        "installments": {
+            "quantity": 12,
+            "amount": 1324.21,
+            "rate": 93.81,
+            "currency_id": "ARS"
+        },
+        "address": {
+            "state_id": "AR-B",
+            "state_name": "Buenos Aires",
+            "city_id": null,
+            "city_name": "Lanus Oeste"
+        },
+        "shipping": {
+            "free_shipping": true,
+            "mode": "me2",
+            "tags": ["self_service_in", "mandatory_free_shipping"],
+            "logistic_type": "cross_docking",
+            "store_pick_up": false
+        },
+        "seller_address": {
+            "id": "",
+            "comment": "",
+            "address_line": "",
+            "zip_code": "",
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "city": {
+                "id": null,
+                "name": "Lanus Oeste"
+            },
+            "latitude": "",
+            "longitude": ""
+        },
+        "attributes": [
+            {
+                "id": "BRAND",
+                "value_id": "7550431",
+                "attribute_group_id": "OTHERS",
+                "name": "Marca",
+                "value_name": "Fierros",
+                "value_struct": null,
+                "values": [
+                    {
+                        "struct": null,
+                        "source": 1577,
+                        "id": "7550431",
+                        "name": "Fierros"
+                    }
+                ],
+                "attribute_group_name": "Otros",
+                "source": 1577
+            },
+            {
+                "name": "Condición del ítem",
+                "attribute_group_id": "OTHERS",
+                "attribute_group_name": "Otros",
+                "value_struct": null,
+                "values": [
+                    {
+                        "struct": null,
+                        "source": 1,
+                        "id": "2230284",
+                        "name": "Nuevo"
+                    }
+                ],
+                "source": 1,
+                "id": "ITEM_CONDITION",
+                "value_id": "2230284",
+                "value_name": "Nuevo"
+            },
+            {
+                "value_name": "09",
+                "value_struct": null,
+                "attribute_group_name": "Otros",
+                "id": "MODEL",
+                "name": "Modelo",
+                "value_id": "2608622",
+                "values": [
+                    {
+                        "id": "2608622",
+                        "name": "09",
+                        "struct": null,
+                        "source": 1577
+                    }
+                ],
+                "attribute_group_id": "OTHERS",
+                "source": 1577
+            }
+        ],
+        "original_price": null,
+        "category_id": "MLA109027",
+        "official_store_id": null,
+        "domain_id": "MLA-SNEAKERS",
+        "catalog_product_id": "MLA15031028",
+        "tags": [
+            "brand_verified",
+            "good_quality_picture",
+            "good_quality_thumbnail",
+            "loyalty_discount_eligible",
+            "moderation_penalty",
+            "immediate_payment",
+            "cart_eligible",
+            "shipping_guaranteed",
+            "best_seller_candidate"
+        ],
+        "order_backend": 20,
+        "use_thumbnail_id": true,
+        "offer_score": null,
+        "offer_share": null,
+        "match_score": null,
+        "winner_item_id": null,
+        "melicoin": null,
+        "discounts": null
+    }
+]
