@@ -12,8 +12,9 @@ const Item = ({product}) => {
 
   return (
     <div className='card-container' onClick={handleNavigate}>
-      <img className="card-img" src={product.image} width={250} alt="product"/>
+      <img className="card-img" src={product.thumbnail} width={250} alt="product"/>
       <h1 className='card-title'>{product.title}</h1>
+      <span>${product.price}</span>
     </div>
   )
 }

@@ -25,16 +25,13 @@ const NavBar = () => {
                 <Link to="/">Home</Link>
             </li>
             <li>
-                <Link to="/category/men's clothing">Men's clothing</Link>
+                <Link to="/price/0-2000">Precio: 0-2000</Link>
             </li>
             <li>
-                <Link to="/category/women's clothing">Women's clothing</Link>
+                <Link to="/price/2000-8000">Precio: 2000-8000</Link>
             </li>
             <li>
-                <Link to="/category/electronics">Electronics</Link>
-            </li>
-            <li>
-                <Link to="/category/jewelery">Jewelery</Link>
+                <Link to="/price/8000">Precio: 8000-infinito</Link>
             </li>
             <CartWidget/>
             <Select handleColor={onChangeColor}/>
