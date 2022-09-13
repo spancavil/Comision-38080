@@ -14,6 +14,7 @@ const ItemDetailContainer = () => {
 
         const getProducts = async () => {
             try {
+                //const productSelected = products.find(product => product.id === productId)
                 const response = await fetch(`https://fakestoreapi.com/products/${productId}`);
                 const data = await response.json();
                 setProductDetail(data);

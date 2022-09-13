@@ -1,9 +1,12 @@
-import React from 'react';
+import React, {useState} from 'react';
 import Item from '../Item';
 import Modal from '../Modal';
 import './styles.scss';
 
 const ItemList = ({products}) => {
+
+  const [modalShow, setModalShow] = useState(true);
+
   return (
     <div className='item-container'>
         {products.length ? products.map(product => {
@@ -12,6 +15,7 @@ const ItemList = ({products}) => {
         :
         <h2>Loading...</h2>
       }
+      { modalShow ? <Modal handleClose={setModalShow}/> : null}
     </div>
   )
 }
