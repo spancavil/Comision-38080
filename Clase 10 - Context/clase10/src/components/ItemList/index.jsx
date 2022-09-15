@@ -1,11 +1,15 @@
-import React, {useState} from 'react';
+import React, { useContext } from 'react';
+import { Shop } from '../../context/ShopProvider';
 import Item from '../Item';
-import Modal from '../Modal';
 import './styles.scss';
 
 const ItemList = ({products}) => {
 
-  const [modalShow, setModalShow] = useState(true);
+  const {setMensaje} = useContext(Shop);
+
+  const onChangeMensaje = () => {
+    setMensaje("Chau")
+  }
 
   return (
     <div className='item-container'>
@@ -15,7 +19,7 @@ const ItemList = ({products}) => {
         :
         <h2>Loading...</h2>
       }
-      { modalShow ? <Modal handleClose={setModalShow}/> : null}
+      <button onClick={onChangeMensaje}>Cambiar mensaje NavBar</button>
     </div>
   )
 }
