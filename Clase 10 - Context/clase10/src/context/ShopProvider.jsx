@@ -34,6 +34,15 @@ const ShopProvider = ({children}) => {
         return cart.some(product => product.id === id)
     }
 
+    //Completar la lógica
+    const removeItem = (item) => {
+
+    }
+
+    const clearCart = () => {
+
+    }
+
     // const [mensaje, setMensaje] = useState("Hola")
 
     return (
