@@ -1,23 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+// import ClassBasedCondition from './components/ClassBasedCondition';
+// import SpreadProperties from './components/SpreadProperties';
+import CounterContainer from './containers/CounterContainer';
+// import InLineStyles from './components/InLineStyles';
+// import InLineTernary from './components/InLineTernary';
+// import BinaryOperator from './components/BinaryOperator';
+// import ReturnTemprano from './components/ReturnTemprano';
+
+/* const stylesComponent = {
+  fontSize: '22px',
+  color: 'red'
+} */
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h2>Hola coders!</h2>
+      {/* <ReturnTemprano condition={"Sebas"}/> */}
+      {/* <BinaryOperator condition={false}/> */}
+      {/* <InLineTernary condition={""}/> */}
+      {/* <InLineStyles condition={true}/> */}
+      {/* <ClassBasedCondition condition={false} /> */}
+      {/* <SpreadProperties /> */}
+      <CounterContainer/>
     </div>
   );
 }

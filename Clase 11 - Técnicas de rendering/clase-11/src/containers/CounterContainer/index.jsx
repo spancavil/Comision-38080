@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
-// import ButtonCount from '../components/ButtonCount';
-import MemoButtonCount from '../components/MemoButtonCount';
+// import ButtonCount from '../../components/ButtonCount';
+import MemoButtonCount from '../../components/MemoButtonCount';
+// import MemoButtonCount from '../components/MemoButtonCount';
 
 const CounterContainer = () => {
 
@@ -8,15 +9,17 @@ const CounterContainer = () => {
         console.log("Se agrego al cart");
     }
 
+    console.log("Se vuelve a renderizar el container (parent)");
+
     const [state, setState] = useState(false)
 
     const counters = [
         {
-            onConfirm: handleConfirm,
+            onConfirm: React.useCallback(handleConfirm, []),
             maxQuantity: 10
         },
         {
-            onConfirm: handleConfirm,
+            onConfirm: React.useCallback(handleConfirm, []),
             maxQuantity: 15
         },
         {
