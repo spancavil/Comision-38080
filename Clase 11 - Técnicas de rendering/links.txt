@@ -1,0 +1,5 @@
+https://www.w3schools.com/react/react_memo.asp => Referencia Memo
+
+https://dmitripavlutin.com/use-react-memo-wisely/ => Cuándo usar React Memo
+
+https://www.w3schools.com/react/react_usecallback.asp => Referencia useCallback
