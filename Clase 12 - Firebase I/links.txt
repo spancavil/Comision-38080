@@ -1,0 +1,2 @@
+https://firebase.google.com/docs/web/setup => Configuración inicial firebase
+https://firebase.google.com/docs/firestore/quickstart => Firestore initialize

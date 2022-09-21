@@ -1,0 +1,60 @@
+.background{
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0, 0.7);
+
+    .modal-container{
+        height: 80%;
+        width: 80%;
+        background-color: snow;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        gap: 30px;
+        padding: 20px;
+        border-radius: 8px;
+        position: relative;
+
+        .title{
+            font-size: 30px;
+            font-weight: 600;
+        }
+        .text{
+            font-size: 34px;
+            font-weight: 400;
+        }
+        .buttons-container{
+            position: absolute;
+            bottom: 50px;
+            left: 39%;
+            display: flex;
+            flex-direction: row;
+            gap: 40px;
+            .rounded-button-cancel{
+                padding: 15px 30px;
+                background-color: firebrick;
+                border: none;
+                color: black;
+                text-align: center;
+                border-radius: 12px 0 12px 0;
+                font-size: 20px;
+            }
+            .rounded-button-send{
+                padding: 15px 30px;
+                border: none;
+                color: black;
+                background-color: aquamarine;
+                text-align: center;
+                border-radius: 12px 0 12px 0;
+                font-size: 20px;
+            }
+
+        }
+    }
+}
