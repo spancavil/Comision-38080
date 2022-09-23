@@ -35,12 +35,13 @@ const ShopProvider = ({children}) => {
     }
 
     //Completar la lógica
-    const removeItem = (item) => {
-
+    const removeItem = (itemToRemove) => {
+        const filteredProducts = cart.filter(item => item !== itemToRemove);
+        setCart(filteredProducts)
     }
 
     const clearCart = () => {
-
+        setCart([]);
     }
 
     // const [mensaje, setMensaje] = useState("Hola")
