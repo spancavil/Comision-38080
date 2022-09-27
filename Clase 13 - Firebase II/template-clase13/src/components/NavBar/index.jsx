@@ -53,7 +53,7 @@ const NavBar = () => {
                 <li>
                     <Link to="/category/jewelery">Jewelery</Link>
                 </li>
-                <div className="buttons-container">
+                {{/* <div className="buttons-container">
                     <Button
                         size="medium"
                         variant="outlined"
@@ -68,7 +68,7 @@ const NavBar = () => {
                     >
                         Signup
                     </Button>
-                </div>
+                </div> */}}
                 <CartWidget />
                 {/* <span>{value.mensaje}</span> */}
                 <Select handleColor={onChangeColor} />

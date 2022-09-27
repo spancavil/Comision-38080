@@ -2,7 +2,6 @@ import { addDoc, collection } from "firebase/firestore";
 import { db } from "../firebase/config";
 
 const algoritmoGuardadoAutomático = async () => {
-    console.log("Entra una vez");
     const response = await fetch('/mocks/data.json');
     const productosAGuardar = await response.json();
 
