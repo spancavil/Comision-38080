@@ -3,8 +3,6 @@ import { db } from "../firebase/config"
 
 const guardarOrden = (cart, orden) => {
     console.log("Guardar orden");
-    console.log(cart);
-    console.log(orden);
     
     //Primer paso: abrir un batch
     const batch = writeBatch(db)
@@ -27,6 +25,7 @@ const guardarOrden = (cart, orden) => {
             } else {
                 outOfStock.push(producto)
             }
+            
             console.log("Productos fuera de stock:");
             console.log(outOfStock);
     

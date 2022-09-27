@@ -35,7 +35,7 @@ const ItemDetail = ({ product }) => {
                 {qty ? (
                     <button onClick={handleFinish}>Finalizar compra</button>
                 ) : (
-                    <ItemCount stock={10} initial={1} onAdd={addCart} />
+                    <ItemCount stock={product.stock} initial={1} onAdd={addCart} />
                 )}
             </div>
         </div>
