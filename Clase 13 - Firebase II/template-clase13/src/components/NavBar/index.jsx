@@ -4,7 +4,7 @@ import Select from "../Select";
 import "./styles.css";
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import { Button } from "@mui/material";
+// import { Button } from "@mui/material";
 import AuthContainer from "../../containers/AuthContainer";
 
 const NavBar = () => {
@@ -21,13 +21,13 @@ const NavBar = () => {
         setNavColor(color);
     };
 
-    const handleLogin = () => {
+    /* const handleLogin = () => {
         setLoginModal(true);
     };
 
     const handleSignup = ()=> {
         setSignupModal(true);
-    }
+    } */
 
     return (
         <>
@@ -53,7 +53,7 @@ const NavBar = () => {
                 <li>
                     <Link to="/category/jewelery">Jewelery</Link>
                 </li>
-                {{/* <div className="buttons-container">
+                {/* <div className="buttons-container">
                     <Button
                         size="medium"
                         variant="outlined"
@@ -68,7 +68,7 @@ const NavBar = () => {
                     >
                         Signup
                     </Button>
-                </div> */}}
+                </div> */}
                 <CartWidget />
                 {/* <span>{value.mensaje}</span> */}
                 <Select handleColor={onChangeColor} />

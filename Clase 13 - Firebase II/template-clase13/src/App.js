@@ -10,8 +10,15 @@ import {
 import NotFound from './components/NotFound';
 import Cart from './containers/CartContainer';
 import ShopProvider from './context/ShopProvider';
+/* import { useEffect } from 'react';
+import algoritmoGuardadoAutomático from './services/guardarProductos'; */
 
 function App() {
+
+  /* useEffect(()=> {
+    console.log("Se debería ejecutar una sola vez");
+    algoritmoGuardadoAutomático();
+  }, []) */
 
   return (
     <ShopProvider>
